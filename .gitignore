@@ -73,6 +73,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.csv
 
 .git/credentials
 
